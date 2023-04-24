@@ -1,8 +1,3 @@
-# Data folder
-/data/raw
-/data/processed
-/data/final
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
