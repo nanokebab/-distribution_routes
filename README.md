@@ -1,2 +1,3 @@
-# flyer_distribution_routes
-Using clustering to create distribution routes for flyers
+# Flyer Distribution Routes
+
+This project aims to divide a city map into distribution routes for flyers using unsupervised machine learning.
